@@ -23,7 +23,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/ameer-ali-jamali/travel-advisor.git
+   git clone https://github.com/ameer-ali-jamali/Project_Travel_Advisor.git
    ```
 
 2. Navigate to the project directory.
