@@ -3882,7 +3882,17 @@ convert-source-map@^0.3.3:
   resolved "https://registry.npmjs.org/convert-source-map/-/convert-source-map-0.3.5.tgz"
   integrity sha512-+4nRk0k3oEpwUB7/CalD7xE2z4VmtEnnq0GO2IPTkrooTrAhEsWvuLF5iWP1dXrwluki/azwXV1ve7gtYuPldg==
 
-convert-source-map@^1.4.0, convert-source-map@^1.6.0, convert-source-map@^1.7.0:
+convert-source-map@^1.4.0:
+  version "1.9.0"
+  resolved "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.9.0.tgz"
+  integrity sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A==
+
+convert-source-map@^1.6.0:
+  version "1.9.0"
+  resolved "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.9.0.tgz"
+  integrity sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A==
+
+convert-source-map@^1.7.0:
   version "1.9.0"
   resolved "https://registry.npmjs.org/convert-source-map/-/convert-source-map-1.9.0.tgz"
   integrity sha512-ASFBup0Mz1uyiIjANan1jzLQami9z1PoYSZCiiYW2FczPbenXc45FZdBZLzOT+r6+iciuEModtmCti+hjaAk0A==
@@ -11071,12 +11081,7 @@ source-map@^0.5.6:
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz"
   integrity sha512-LbrmJOMUSdEVxIKvdcJzQC+nQhe8FUZQTXQy6+I75skNgn3OoQ0DZA8YnFa7gp8tqtL3KPf1kmo0R5DoApeSGQ==
 
-source-map@^0.6.0:
-  version "0.6.1"
-  resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
-  integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
-
-source-map@^0.6.1, source-map@0.6.1:
+source-map@^0.6.0, source-map@^0.6.1, source-map@~0.6.0, source-map@~0.6.1, source-map@0.6.1:
   version "0.6.1"
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
@@ -11085,16 +11090,6 @@ source-map@^0.7.3:
   version "0.7.4"
   resolved "https://registry.npmjs.org/source-map/-/source-map-0.7.4.tgz"
   integrity sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA==
-
-source-map@~0.6.0:
-  version "0.6.1"
-  resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
-  integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
-
-source-map@~0.6.1:
-  version "0.6.1"
-  resolved "https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz"
-  integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
 sourcemap-codec@^1.4.8:
   version "1.4.8"
