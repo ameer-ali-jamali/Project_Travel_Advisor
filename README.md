@@ -57,5 +57,8 @@ If you encounter issues during the setup, here are some common troubleshooting s
 
 - If problems persist, you can delete the `node_modules` directory and the `package-lock.json` file and then run `npm install` again.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 Ameer Ali
